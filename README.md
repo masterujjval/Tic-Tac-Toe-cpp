@@ -11,7 +11,10 @@ if you want to run code on an online compiler copy the Tic_tac_toe.cpp
 If you want to run it on the terminal (Linux) open the terminal in your folder where you cloned this repo
 locate:-
 **Tic_tac_toe >> Debug**
+
+
 ![Screenshot from 2023-07-07 00-22-54](https://github.com/masterujjval/Tic-Tac-Toe-cpp/assets/64778409/dae8dd4a-9784-4ab7-864a-c2678b364ad3)
+
 
 Run:-
 ```bash
@@ -20,6 +23,7 @@ Run:-
 While running this program if you encounter this error:-
 
 ![Screenshot from 2023-07-07 00-10-38](https://github.com/masterujjval/Tic-Tac-Toe-cpp/assets/64778409/34a1ed17-a25e-44b0-9992-49a759544033)
+
 simply run this program on the terminal and it'll work perfectly.
 
 **NOTE FOR WINDOWS USERS**
