@@ -73,7 +73,7 @@ void changePlayer() {
 }
 
 char check() {
-	cout << endl;
+	
 	if (ticTac[0][0] == 'X' && ticTac[1][0] == 'X' && ticTac[2][0] == 'X') {
 		return 'X';
 		//left down
